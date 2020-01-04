@@ -1,6 +1,8 @@
 ### 随机梯度下降法 Stochastic gradient descent
 
 批梯度下降方法：
+
+ 
 $$
 J_{train}(\theta)=\frac{1}{2m}\sum_{i+1}^m( h_\theta(x^{(i)})-y^{(i)})^2\\
 Repeat\{    \\
@@ -8,6 +10,8 @@ Repeat\{    \\
 \theta_j:=\theta_j-\alpha\frac{1}{m}\sum_{i=1}^m( h_\theta(x^{(i)})-y^{(i)})x_j^{(i)}\\
 \}
 $$
+ 
+
 随机梯度下降法
 
 1. 初始化打乱训练样本
