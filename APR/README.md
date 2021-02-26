@@ -1,3 +1,6 @@
+## 在原作BPR的模型上新增了APR的训练方式，在实验上验证了对抗训练的有效性
+下文是关于BPR处理的描述
+
 Bayesian Personalized Ranking from Implicit Feedback
 ====================================================
 [![Build Status](https://travis-ci.com/sh0416/bpr.svg?branch=master)](https://travis-ci.com/sh0416/bpr)
